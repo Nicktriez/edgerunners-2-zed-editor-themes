@@ -1,7 +1,7 @@
-id = "edgerunners"
-name = "Edgerunners"
-version = "0.0.1"
+id = "edgerunners-2"
+name = "Edgerunners 2"
+version = "0.0.2"
 schema_version = 1
 authors = ["NickTriez"]
-description = "Based on Cyberpunk Edgerunners 1 & 2"
+description = "Based on Cyberpunk Edgerunners 2"
 repository = "https://github.com/your-name/my-zed-extension"
