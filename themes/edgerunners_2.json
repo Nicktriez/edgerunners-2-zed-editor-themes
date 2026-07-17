@@ -50,7 +50,7 @@
         "panel.focused_border": "#FCEE0AFF",
         "pane.focused_border": "#FCEE0AFF",
         "scrollbar.thumb.background": "#FF004CFF",
-        "scrollbar.thumb.hover_background": "#FF004CFF",
+        "scrollbar.thumb.hover_background": "#FF004C85",
         "scrollbar.thumb.border": "#4A4456FF",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#2B2634FF",
@@ -409,7 +409,7 @@
         "panel.overlay_background": "#373240FF",
         "panel.overlay_hover": "#373240FF",
         "minimap.thumb.background": "#c8ccd44c",
-        "minimap.thumb.hover_background": "#FF004CFF",
+        "minimap.thumb.hover_background": "#FF004C85",
         "minimap.thumb.active_background": "#FF004CFF",
         "minimap.thumb.border": "#363c46ff",
         "version_control.renamed": "#74ade8ff",
@@ -463,8 +463,8 @@
         "panel.background": "#3e422fff",
         "panel.focused_border": "#00d9f5ff",
         "pane.focused_border": "#00d9f5ff",
-        "scrollbar.thumb.background": "#74E7C266",
-        "scrollbar.thumb.hover_background": "#00D9F5FF",
+        "scrollbar.thumb.background": "#00D9F5FF",
+        "scrollbar.thumb.hover_background": "#74E7C266",
         "scrollbar.thumb.border": "#62664BFF",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#343827ff",
@@ -826,7 +826,9 @@
         "minimap.thumb.border": "#373b2bff",
         "version_control.renamed": "#00d9f5ff",
         "version_control.conflict": "#ffe14dff",
-        "version_control.ignored": "#858a6aff"
+        "version_control.ignored": "#858a6aff",
+        "scrollbar.thumb.active_background": "#00D9F5FF",
+        "minimap.thumb.active_background": "#00D9F5FF"
       }
     },
     {
@@ -1243,5 +1245,5 @@
     }
   ],
   "isUserGenerated": true,
-  "description": "Based on Cyberpunk Edgerunners 1 & 2"
+  "description": "Based on Cyberpunk Edgerunners 2"
 }
